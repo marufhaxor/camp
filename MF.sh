@@ -1,7 +1,6 @@
 #!/bin/bash
 # CamPhish For 14 Feb
-# Powered by Hat-Abm
-# Credits goes to thelinuxchoice [github.com/BD8KR3M/]
+# Powered by Maruf-Haxor
 
 trap 'printf "\n";stop' 2
 
@@ -14,8 +13,8 @@ printf "\e[91m         ██║  ╚═╝███████║██╔█�
 printf "\e[91m         ██║  ██╗██╔══██║██║╚██╔╝██║██╔═══╝\e[0m\n"
 printf "\e[91m         ╚█████╔╝██║  ██║██║ ╚═╝ ██║██║     \e[0m\n"
 printf "\e[91m          ╚════╝ ╚═╝  ╚═╝╚═╝     ╚═╝╚═╝     \e[0m\n"
-printf " \e[1;77m           HAT-ABM | Github.com/BD8KR3M \e[0m \n"
-printf " \e[1;77m              MOD BY- |ABM MUJAHID| \e[0m \n"
+printf " \e[1;77m                      Maruf - Haxor \e[0m \n"
+printf " \e[1;77m              MOD BY- |MARUF RAJ. | \e[0m \n"
 printf " \e[1;77m-----------------------------------------------\e[0m \n"
 
 #printf "\n"
